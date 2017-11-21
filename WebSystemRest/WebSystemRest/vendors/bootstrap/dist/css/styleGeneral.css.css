@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/*!
+ * animate.css -http://daneden.me/animate
+ * Version - 3.5.0
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2016 Daniel Eden
+ aquí se digita todos los estilos modificados durante el proyecto separados por el nombre de la página a quienes va dirigido
+ */
+
+/*estilos generales*/
+  #footerLogout {
+            width: 100%;
+        }
+        .fa, .fa-pencil-square-o, .btn-lg {
+            font-size: 20px;
+        }
+        .bl {
+            display: none;
+        }
+        div.dataTables_wrapper div.dataTables_filter { display:none;
+        }
